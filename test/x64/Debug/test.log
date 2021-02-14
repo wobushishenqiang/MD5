@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\projects\md5\test\main.cpp(89): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\projects\md5\test\main.cpp(102): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\projects\md5\test\main.cpp(228): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\projects\md5\test\main.cpp(238): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=unsigned int
+          ]
+  test.vcxproj -> E:\projects\MD5\x64\Debug\test.exe

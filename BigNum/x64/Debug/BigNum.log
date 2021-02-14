@@ -1,0 +1,7 @@
+﻿  bigint.cpp
+e:\projects\md5\bignum\bigint.cpp(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\projects\md5\bignum\bigint.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\projects\md5\bignum\bigint.cpp(68): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\projects\md5\bignum\bigint.cpp(106): warning C4552: ”>>“: 未使用表达式结果
+e:\projects\md5\bignum\bigint.cpp(180): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BigNum.vcxproj -> E:\projects\MD5\x64\Debug\BigNum.exe
